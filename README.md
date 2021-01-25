@@ -39,3 +39,5 @@ To go inside of a container, run
 ```bash
 docker exec -it <container_id> /bin/bash
 ```
+
+For more information consider visiting [the official "Dockerizing a Node.js" article](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
