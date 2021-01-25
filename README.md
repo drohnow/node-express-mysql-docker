@@ -1,6 +1,6 @@
-# node-express-docker
+# node-express-mysql-docker
 
-Basic NodeJS application utilizing Docker.
+Basic NodeJS + MySQL application utilizing Docker.
 
 ## Usage
 
