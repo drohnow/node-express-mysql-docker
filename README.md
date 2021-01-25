@@ -1,6 +1,6 @@
 # node-express-docker
 
-Basic application utilizing Docker.
+Basic NodeJS application utilizing Docker.
 
 ## Usage
 
